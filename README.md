@@ -1,3 +1,3 @@
 # python_basic
-## battle_project 飞机大战
-## student system manger 学生管理系统
+## battle project 飞机大战
+## student system manager 学生管理系统
